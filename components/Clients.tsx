@@ -129,7 +129,7 @@ const Clients: React.FC = () => {
 
         <Marquee 
           gradient={false} 
-          speed={40} 
+          speed={60} 
           pauseOnHover={true}
           className="overflow-y-hidden py-4"
         >

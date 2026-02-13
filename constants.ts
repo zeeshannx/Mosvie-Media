@@ -104,6 +104,30 @@ export const PRICING_TIERS: PricingTier[] = [
 
 export const SHOWCASE_ITEMS: ShowcaseItem[] = [
   {
+    id: 32,
+    title: "The World’s Most Powerful Ship | USS Gerald R. Ford",
+    client: "Sam Eckholm",
+    beforeUrl: "https://img.youtube.com/vi/b7aTdnu-GXc/maxresdefault.jpg",
+    afterUrl: "https://img.youtube.com/vi/b7aTdnu-GXc/maxresdefault.jpg",
+    category: "Vlogs",
+    size: "Mega",
+    clientAvatarUrl: "https://yt3.googleusercontent.com/ytc/AIdro_khbc_z0xG2seY40ktRE3Jlz9CS1ewD2hCXTAwFZa6-qM8=s160-c-k-c0x00ffffff-no-rj",
+    isHiddenFromHome: true,
+    views: "8.2M"
+  },
+  {
+    id: 31,
+    title: "Living On A $2,000,000,000 Nuclear Submarine",
+    client: "Sam Eckholm",
+    beforeUrl: "https://img.youtube.com/vi/UFs3XsbUoCI/maxresdefault.jpg",
+    afterUrl: "https://img.youtube.com/vi/UFs3XsbUoCI/maxresdefault.jpg",
+    category: "Vlogs",
+    size: "Mega",
+    clientAvatarUrl: "https://yt3.googleusercontent.com/ytc/AIdro_khbc_z0xG2seY40ktRE3Jlz9CS1ewD2hCXTAwFZa6-qM8=s160-c-k-c0x00ffffff-no-rj",
+    isHiddenFromHome: true,
+    views: "18M"
+  },
+  {
     id: 30,
     title: "Exposing MrBeast's BIGGEST Secrets..",
     client: "FaZe Rug",
